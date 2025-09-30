@@ -1,5 +1,5 @@
-# 💫 About Me:
-About Me<br><br>
+# About Me:
+
 I am Ritvik Dunga, a developer and researcher passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Multimodal Research. My current focus is on building lightweight Video Question Answering (VideoQA) models with spatio-temporal attention and multimodal fusion. Alongside AI research, I enjoy working with automation tools, full-stack development (React, Node.js, Flask), and modern ML/DL frameworks (PyTorch, scikit-learn, Hugging Face). I also actively participate in competitive programming, with an active streak on CodeChef and 100+ problems solved on LeetCode, sharpening my problem-solving skills.
 
 
